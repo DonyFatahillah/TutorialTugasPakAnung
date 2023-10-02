@@ -1,4 +1,4 @@
-# while is true just incase if you put number in your head
+# while is true just incase if you put number in your name
 while True:
 
     nama = input("Masukan nama : ")
